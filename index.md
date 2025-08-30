@@ -53,9 +53,9 @@ Depending on your location (e.g., EU/UK/EEA GDPR, California CCPA/CPRA), you may
 - Opt out of “sale”/“sharing” (we do not sell personal data).
 
 **Data Deletion Requests:** See our instructions here:  
-👉 [Data Deletion](./data-deletion.md)
+👉 Send and email to vtserej@gmail.com with your username.
 
-To exercise any rights, contact us at **[REPLACE WITH YOUR CONTACT EMAIL]**. We will verify your request before acting on it.
+To exercise any rights, contact us at **[vtserej@gmail.com]**. We will verify your request before acting on it.
 
 ## Security
 We use reasonable administrative, technical, and physical safeguards. No method of transmission or storage is 100% secure.
